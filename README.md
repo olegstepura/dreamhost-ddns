@@ -94,6 +94,12 @@ License
 The work is provided as is for free without any support guarantee under the [Creative Commons CC-BY-SA][4] license.
 
 
+Version log
+-----------------
+
+1.0. Initial version.
+
+
 Author
 -----------------
 
