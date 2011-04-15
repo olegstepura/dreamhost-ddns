@@ -60,7 +60,8 @@ home/work linux PC.
 
         post-up /etc/ddns/ddns.sh
 
- to the interface which connects the web
+ to the interface which connects the web.
+
  Example:
 
         auto dsl-provider
@@ -80,7 +81,7 @@ home/work windows PC.
 `windows` directory
 * Edit `ddns.bat` and insert (**no spaces and quotes needed**):
  * Public url to access your script placed on Dreamhost into `PUBLIC_URL`
- * Insert your personal unique key generated earlier into `PERSONAL_KEY`
+ * Your personal unique key generated earlier into `PERSONAL_KEY`
  * You can change the log file location in `LOG_PATH`
 * Test the script by calling it directly.
 * [Create a task][6] to launch the script `ddns.bat` on startup or logon.
@@ -90,7 +91,7 @@ home/work windows PC.
 License
 -----------------
 
-The work is provided for free as is without any support guarantee under the [Creative Commons CC-BY-SA][4] license.
+The work is provided as is for free without any support guarantee under the [Creative Commons CC-BY-SA][4] license.
 
 
 Author
