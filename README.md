@@ -1,6 +1,13 @@
 README
 ======
 
+Update
+-----------------
+It's worth noting that I personally stopped using this engine since there is a much 
+better way to just use some dynamic dns service like `no-ip` or `dyndns` and adding
+a `cname` record to your domain pointing to the domain you selected at those services.
+
+
 What is this?
 -----------------
 
@@ -94,17 +101,11 @@ License
 The work is provided as is for free without any support guarantee under the [Creative Commons CC-BY-SA][4] license.
 
 
-Version log
------------------
-
-1.0. Initial version.
-
-
 Author
 -----------------
 
 The work was made by Oleg Stepura. If you have questions feel free to contact me at
-oleg[dot]stepura [-at-] gmail[dot]com
+github [-at-] oleg.stepura.com
 
 [1]: http://en.wikipedia.org/wiki/Dynamic_DNS
 [2]: http://wiki.dreamhost.com/Dynamic_DNS
